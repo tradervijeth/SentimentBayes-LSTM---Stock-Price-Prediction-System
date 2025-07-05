@@ -146,13 +146,9 @@ The model provides several evaluation metrics:
 ```
 ├── SentimentBayesLSTM- Hybrid Forecasting with GPT Insights and Bayesian Tuning_VJ75 .ipynb
 ├── README.md
-<<<<<<< HEAD
 ├── requirements.txt
 ├── .gitignore
-├── Implementation_Guide.pdf (detailed methodology guide)
-=======
-├── requirements.txt (create this file)
->>>>>>> 8eead89e0070bcfd2f3c0612fd4b541804cc111d
+├── SentimentBayesLSTM_Full_User_Guide.pdf (detailed methodology guide)
 └── cache files (generated during execution)
     ├── {ticker}_sentiment_cache.json
     └── model checkpoints
@@ -184,7 +180,6 @@ This project is provided for educational and research purposes. Please ensure co
 - TensorFlow team for the deep learning framework
 - scikit-optimize for Bayesian optimization tools
 
-<<<<<<< HEAD
 ## 📞 Contact & Support
 
 ### For Academic Inquiries:
@@ -210,16 +205,3 @@ Feel free to reach out through GitHub issues or direct contact for:
 **Disclaimer**: This tool is for educational and research purposes only. Not financial advice. Always do your own research before making investment decisions.
 
 **Academic Use**: If you use this work in your research, please provide appropriate attribution and consider reaching out for the full academic paper for comprehensive citations.
-=======
-## 📞 Support
-
-For questions or issues:
-1. Check the notebook comments and documentation
-2. Review the error handling sections
-3. Ensure all dependencies are properly installed
-4. Verify API key configuration
-
----
-
-**Disclaimer**: This tool is for educational and research purposes only. Not financial advice. Always do your own research before making investment decisions.
->>>>>>> 8eead89e0070bcfd2f3c0612fd4b541804cc111d
